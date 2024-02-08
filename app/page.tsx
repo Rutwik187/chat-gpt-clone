@@ -1,3 +1,4 @@
+"use client"
 
 import ChatWindow from "@/components/ChatWindow";
 import Sidebar from "@/components/Sidebar";
